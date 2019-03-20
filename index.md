@@ -1,0 +1,16 @@
+## Front-End CSS Test
+
+Fork and complete the Codepen Hero Unit with CSS and JavaScript. To get started, switch to the `project.html` file in the preview Tab and grab the reference images for direction.
+
+**Brief References:** `https://photos.app.goo.gl/Uqz7MB6XQEQSiykd8`
+
+- Write ONLY the CSS and javascript
+- You may NOT use any other libraries such as jQuery or Bootstrap
+- Do NOT change the HTML code
+- You MAY use another pre-proccessor such as LESS
+- You may NOT add any additional images other than the one that is linked already
+- Use `#5C5343` for the **brown** color
+
+---
+
+![alt text](https://lh3.googleusercontent.com/uXS20s-Bhp0s02GsMz9I-cJn-siuKhQtiKXauSGMicXAWidjZ_yHXhj8hmyTBBLiIZz6-A3sgf_a1MKXKhDpjcGioJiJjxy9NSTklvxwYloe9IeUZpsFSUEwmuijB2FmtFvLvqv4Hrg1KWEiu37-MGQuC2vW1T3VPEaqb3T-XA-_e_Q1QySwUiGY-EDP5ppyOx0dOVGK4Xw2f2dxGuOzKwMc0UmbBj2vnlA4ozhhtf9_S0AhdDtltBGHcYfI03cy7c-wqrT_1gCbrguQDMD28ajdhQ2Qql0yLDfIr6VyxBmZCXSNKjhMCQTMEjAcl5yyhgKEVR43etm4NoqcbV98xZ5sJuOixFE-KJ0ufQa385q1dK5yIss55c93sDVV_zDmuHaEGks-FWNq1SEfH7GsnZm7a1_HF35ncrQIG01a3Z1G2HACtnwQsOBExTJxI69r_9tULmhr1g3ydPmGIRJjZ1FapK6LxOX-QcxoAjvB85cqJudJ0Zfc7GSs0ZVLw1K8DAMBI4ffz5XmTvzjoh-VCw-PdaBmSOQM8IRaaSYnf3ypN6AY-DIHA8ScwY11o_gsnmZMNFJCwyUR2fdfCx2Mp5F15Cboxvr0aXzCFB2MTM8TMqGEhbUY0epNFxHIoPm8SnnfD1EeopIcRIvbgze5pgiGMOneq3wT7IKadoEROTb3LYt5ds22syelwkkGY4dJLB-NgqeS1skzDQ6x9A=w2640-h1478-no "Desktop")
